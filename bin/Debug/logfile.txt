@@ -1,0 +1,5 @@
+9/20/2016 Error: Could not find a part of the path 'C:\Users\AHMADREZA-PC$\.PyCharm2016.2\config\eval\PyCharm162.evaluation.key'.
+Stop Service: 9/20/2016
+9/20/2016 7:37:56 PM (Work Service, Delete File)
+Stop Service: 9/20/2016
+9/20/2016 7:41:36 PM (Work Service, Delete File)

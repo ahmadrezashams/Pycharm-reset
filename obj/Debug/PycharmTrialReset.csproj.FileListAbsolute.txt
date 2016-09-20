@@ -1,0 +1,7 @@
+c:\users\night\documents\visual studio 2013\Projects\PycharmTrialReset\PycharmTrialReset\obj\Debug\PycharmTrialReset.ProjectInstaller.resources
+c:\users\night\documents\visual studio 2013\Projects\PycharmTrialReset\PycharmTrialReset\obj\Debug\PycharmTrialReset.csproj.GenerateResource.Cache
+c:\users\night\documents\visual studio 2013\Projects\PycharmTrialReset\PycharmTrialReset\bin\Debug\PycharmTrialReset.exe
+c:\users\night\documents\visual studio 2013\Projects\PycharmTrialReset\PycharmTrialReset\bin\Debug\PycharmTrialReset.pdb
+c:\users\night\documents\visual studio 2013\Projects\PycharmTrialReset\PycharmTrialReset\obj\Debug\PycharmTrialReset.exe
+c:\users\night\documents\visual studio 2013\Projects\PycharmTrialReset\PycharmTrialReset\obj\Debug\PycharmTrialReset.pdb
+C:\Users\night\documents\visual studio 2013\Projects\PycharmTrialReset\PycharmTrialReset\obj\Debug\PycharmTrialReset.csprojResolveAssemblyReference.cache
